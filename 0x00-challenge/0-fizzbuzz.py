@@ -36,3 +36,4 @@ if __name__ == '__main__':
         sys.exit(1)
     number = int(sys.argv[1])
     fizzbuzz(number)
+    
